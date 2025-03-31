@@ -6,6 +6,9 @@ Este es un proyecto de gestion de proyectos para cual quier actividad o tarea qu
 
 🌐 Demo en Vivo https://next-track-three-azure.vercel.app/sign-in
 
+Documento de el proyecto 
+https://docs.google.com/document/d/1YugrS0yRK9U1HQf3Hyo4n6XJC2xZLB7b/edit?usp=sharing&ouid=105345185488370151537&rtpof=true&sd=true
+
 📌 Vista Previa
 Captura de Pantalla
 Recomendación: Usa herramientas como Shots.so para crear imágenes atractivas de tu app.
