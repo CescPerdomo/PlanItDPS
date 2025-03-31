@@ -85,7 +85,16 @@ Despliegue del proyecto
 
  
  
- 
+Integrantes de el proyecto:
+Cesar Ernesto Perdomo Guerrero
+PG241690@alumno.udb.edu.sv
+--------------------------------
+José Alonso Aguirre Márquez
+AM241838@alumno.udb.edu.sv
+--------------------------------
+Fabricio Antonio Castro Martinez
+CM240137@alumno.udb.edu.sv
+
  
  
  
