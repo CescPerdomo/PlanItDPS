@@ -91,13 +91,13 @@ Despliegue del proyecto
 Integrantes de el proyecto:
 Cesar Ernesto Perdomo Guerrero
 PG241690@alumno.udb.edu.sv
-
+Carnet: PG241690
 José Alonso Aguirre Márquez
 AM241838@alumno.udb.edu.sv
-
+Carnet:AM241838
 Fabricio Antonio Castro Martinez
 CM240137@alumno.udb.edu.sv
-
+Carnet: AM241838
  
  
  
