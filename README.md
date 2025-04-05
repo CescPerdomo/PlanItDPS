@@ -6,6 +6,8 @@ Este es un proyecto de gestion de proyectos para cual quier actividad o tarea qu
 
 🌐 Demo en Vivo https://next-track-three-azure.vercel.app/sign-in
 
+Defensa de proyecto, link: https://udbedu-my.sharepoint.com/:v:/g/personal/cm240137_alumno_udb_edu_sv/Edjp9AA8cCJImUGP1WfD8T8B8DAGGY0jtVGvvtJ5gaDc6g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=KzymAV
+
 Documento de el proyecto 
 https://docs.google.com/document/d/1YugrS0yRK9U1HQf3Hyo4n6XJC2xZLB7b/edit?usp=sharing&ouid=105345185488370151537&rtpof=true&sd=true
 
